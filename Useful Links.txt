@@ -1,0 +1,10 @@
+Repo link: https://github.com/adrianhajdin/portfolio
+React: https://react.dev/
+Next JS: https://nextjs.org/
+Tailwind CSS: https://tailwindcss.com/
+Framer Motion: https://www.framer.com/motion/
+Shad CN (Dark / Night Mode): https://ui.shadcn.com/docs/dark-mode/next
+NOTE: Will look for how to implement dark - night button later on. 
+Aceternity UI (for components): https://ui.aceternity.com/
+Localhost: http://localhost:3000/
+YouTube Link: https://www.youtube.com/watch?v=FTH6Dn3AyIQ 
